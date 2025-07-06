@@ -12,7 +12,6 @@ This project presents a detailed **SQL-based data analysis** of the **2024 India
 | `Database_&_Table_Creations.sql` | SQL script to create the database, tables, and load data from CSV files   |
 | `Basic_Results_Queries.sql`      | 48 essential analytical queries                                           |
 | `states.csv`, etc.               | Raw data files (optional for import)                                      |
-| `Sample_Output.png` *(optional)* | Screenshot of sample output/query results                                 |
 
 ---
 
@@ -66,7 +65,7 @@ ORDER BY S.State_Name;
 
 ## 📸 Sample Output
 
-![image](https://github.com/user-attachments/assets/2cd2f609-ef36-4077-9838-6b11e69d5949)
+![image](https://github.com/user-attachments/assets/ecac3877-08ba-4f3d-a689-02efd126b8b8)
 
 ---
 
