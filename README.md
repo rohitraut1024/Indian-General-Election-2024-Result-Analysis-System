@@ -13,7 +13,6 @@ This project presents a detailed **SQL-based data analysis** of the **2024 India
 | `Basic_Results_Queries.sql`      | 48 essential analytical queries                                           |
 | `states.csv`, etc.               | Raw data files (optional for import)                                      |
 | `Sample_Output.png` *(optional)* | Screenshot of sample output/query results                                 |
-|--------------------------------------------------------------------------------------------------------------|
 
 ---
 
